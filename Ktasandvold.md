@@ -4,4 +4,5 @@
 - ham
 - cheese
 - mustard
+- pickles
 
